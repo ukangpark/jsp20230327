@@ -17,4 +17,4 @@
 	
 	<a href="07scope.jsp">7번 파일로 다시 돌아가기</a>
 </body>
-</html>
+</html> 
